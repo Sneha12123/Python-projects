@@ -24,7 +24,7 @@ def local_css(file_name):
         st.markdown(f"<style>{f.read()}</style>", unsafe_allow_html=True)
 
 
-local_css("C:\\Users\\sneha\\OneDrive\\Desktop\\streamlit\\css\\style.css")
+local_css("C:\\Users\\sneha\\OneDrive\\Desktop\\Portfolio website\\css\\style.css")
 # loading assets
 lottie_coding = load_lottieurl(
     "https://lottie.host/e003551b-5ea6-4ff8-86b4-d30423061257/mLfxbyTFPj.json"
