@@ -54,13 +54,14 @@ with st.container():
 
 - I enjoy competitive coding and I actively practice as well compete on codechef as well as hackerrank.
 
-- I also have some experience in Python, C programming as well I know database SQL. I know HTML, CSS and 
+- I enjoy coding in Python. I'm familiar with C and C++ as well as MySQL. I know HTML, CSS and 
   Javascript. Also I can work on Linux Ubuntu.
 
-- I love doing Art and Craft work, Sketching, Painting especially on Canvas. 
-
 - Apart from that I'm a Toastmaster at Raisoni Ace Toastmasters Club, I actively participate in roleplays 
-   and currently I'm completed my Level 1 of pathway: Motivational Strategis"""
+   and currently I'm completed my Level 1 of pathway: Motivational Strategis
+
+- I love doing Art and Craft work, Sketching, Painting especially on Canvas."""
+
         )
     with right_column:
      st_lottie(lottie_coding, height=300, key="coding")
